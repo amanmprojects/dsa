@@ -17,8 +17,6 @@ public:
         else if (p == nullptr) return false;
         else if (q == nullptr) return false;
 
-        if(!(p->left == q->left)) return false;
-        if(!(p->right == q->right)) return false;
         if(p->val != q->val) return false;
         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     } 
