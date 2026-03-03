@@ -22,24 +22,25 @@ public:
     }
     
     string get(string key, int timestamp) {
-        if(store.count(key) == 0) return "";
-        vector<int> ts = store.at(key).first;
+        string res = "";
+
+        // Key does not exist
+        if(store.count(key) == 0) return res;
+
+        //
+        pair<vector<int>, vector<string>> values = store.at(key);
         int mid;
 
-        int l = 0, r = ts.size()-1;
+        int l = 0, r = values.first.size()-1;
 
         while(l <= r){
             mid = (l + r) / 2;
-            if(ts[mid] == timestamp) {
-                break;
+            if(values.first[mid] <= timestamp) {
+                res = values.second[mid];
+                l = mid + 1;
             }
-            else if(ts[mid] < timestamp) l = mid;
             else r = mid-1;
         }
-
-        if (mid <= timestamp){
-            return store.at(key).second[mid];
-        }
-        return "";
+        return res;
     }
 };
