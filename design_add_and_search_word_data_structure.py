@@ -1,4 +1,3 @@
-from collections import deque
 from typing import Optional
 
 
@@ -8,8 +7,8 @@ class TrieNode:
         self.children = dict[str, TrieNode]()
         self.isComplete = isComplete
 
-class WordDictionary:
 
+class WordDictionary:
     def __init__(self):
         self.root = TrieNode(None)
 
@@ -24,21 +23,18 @@ class WordDictionary:
 
         curr.isComplete = True
 
-    def search(self, word: str, curr = None) -> bool:
+    def search(self, word: str, curr=None) -> bool:
         if curr is None:
             curr = self.root
-        
+
         for i in range(len(word)):
             if word[i] == ".":
                 for child in curr.children:
-                    if self.search(word[i+1:], curr=curr.children[child]):
+                    if self.search(word[i + 1 :], curr=curr.children[child]):
                         return True
             if word[i] in curr.children:
                 curr = curr.children[word[i]]
             else:
                 return False
-        
+
         return curr.isComplete
-                
-                    
-                    
