@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/amanmprojects/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/amanmprojects/dsa/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
