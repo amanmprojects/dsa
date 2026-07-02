@@ -17,4 +17,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
+| [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
 <!---LeetCode Topics End-->
