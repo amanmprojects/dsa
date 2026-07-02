@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amanmprojects/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/amanmprojects/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/amanmprojects/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
