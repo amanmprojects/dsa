@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amanmprojects/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amanmprojects/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/amanmprojects/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 <!---LeetCode Topics End-->
