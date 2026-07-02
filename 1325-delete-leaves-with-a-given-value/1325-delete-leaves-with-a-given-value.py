@@ -9,7 +9,7 @@ class Solution:
         
         def dfs(n):
             if n is None:
-                return 
+                return None
 
             n.left = dfs(n.left)
             n.right = dfs(n.right)
