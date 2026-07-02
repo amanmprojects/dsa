@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0941-valid-mountain-array](https://github.com/amanmprojects/dsa/tree/main/0941-valid-mountain-array/) | Easy |
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
