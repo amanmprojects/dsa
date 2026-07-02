@@ -1,31 +1,15 @@
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
+        n = len(arr)
         if len(arr) < 3:
             return False
-        differences = []
-        for i in range(1, len(arr)):
-            differences.append(arr[i] - arr[i-1])
-            if differences[-1] == 0:
-                return False
-        
-        if differences[0] < 0:
-            return False
 
-        if differences[-1] > 0:
-            return False
+        left, right = 0, n - 1
 
-        decreasing = False
+        while left < n - 1 and arr[left] < arr[left + 1]:
+            left += 1
 
-        for diff in differences:
-            if not decreasing:
-                if diff < 0:
-                    decreasing = True
-                    continue
+        while right > 0 and arr[right] < arr[right - 1]:
+            right -= 1
 
-            if decreasing:
-                if diff > 0:
-                    return False
-
-        return True 
-
-
+        return left == right and left != 0 and right != n-1
