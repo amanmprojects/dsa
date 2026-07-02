@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/amanmprojects/dsa/tree/main/0394-decode-string/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
 | [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
@@ -46,8 +47,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/amanmprojects/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/amanmprojects/dsa/tree/main/0394-decode-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/amanmprojects/dsa/tree/main/1068-product-sales-analysis-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/amanmprojects/dsa/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
