@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
