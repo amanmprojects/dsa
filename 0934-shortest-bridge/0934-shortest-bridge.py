@@ -16,21 +16,20 @@ class Solution:
                 break
             
         # Temporary queue for first BFS
-        tq = deque([(r, c)])
+        island_q = deque([(r, c)])
         q.append((r, c))
         grid[r][c] = -1
         
         # BFS to find all points of first island
-        while tq:
-            for _ in range(len(tq)):
-                r, c = tq.popleft()
-
-                for dr, dc in directions:
-                    nr, nc = r + dr, c + dc
-                    if 0<=nr<n and 0<=nc<n and grid[nr][nc] == 1:
-                        grid[nr][nc] = -1
-                        q.append((nr, nc))
-                        tq.append((nr, nc))
+        while island_q:
+            r, c = island_q.popleft()
+            
+            for dr, dc in directions:
+                nr, nc = r + dr, c + dc
+                if 0<=nr<n and 0<=nc<n and grid[nr][nc] == 1:
+                    grid[nr][nc] = -1
+                    q.append((nr, nc))
+                    island_q.append((nr, nc))
         
         # Finally we have all points of first island, now we need to do multi-source bfs from all these points
 
