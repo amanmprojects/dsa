@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0941-valid-mountain-array](https://github.com/amanmprojects/dsa/tree/main/0941-valid-mountain-array/) | Easy |
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/amanmprojects/dsa/tree/main/0394-decode-string/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 <!---LeetCode Topics End-->
