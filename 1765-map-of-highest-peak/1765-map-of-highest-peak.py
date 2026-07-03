@@ -15,18 +15,15 @@ class Solution:
                 
         # Multi Source
         directions = [(0,1),(0, -1), (1, 0), (-1,0)]
-        dist = 1
         while q:
             for _ in range(len(q)):
                 r, c = q.popleft()
                 for dr, dc in directions:
                     nr, nc = r + dr, c + dc
                     if 0 <= nr < m and 0 <= nc < n and heights[nr][nc] == -1:
-                        heights[nr][nc] = dist
+                        heights[nr][nc] = heights[r][c] + 1
                         q.append((nr, nc))
 
-            dist += 1
-        
         return heights
 
     
