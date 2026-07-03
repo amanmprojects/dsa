@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0542-01-matrix](https://github.com/amanmprojects/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/amanmprojects/dsa/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 <!---LeetCode Topics End-->
