@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0626-exchange-seats](https://github.com/amanmprojects/dsa/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/amanmprojects/dsa/tree/main/1068-product-sales-analysis-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
