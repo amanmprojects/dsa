@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/amanmprojects/dsa/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/amanmprojects/dsa/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1405-longest-happy-string](https://github.com/amanmprojects/dsa/tree/main/1405-longest-happy-string/) | Medium |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/amanmprojects/dsa/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
