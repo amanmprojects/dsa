@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1306-jump-game-iii](https://github.com/amanmprojects/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/amanmprojects/dsa/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/amanmprojects/dsa/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/amanmprojects/dsa/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
