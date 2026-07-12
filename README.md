@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0966-vowel-spellchecker](https://github.com/amanmprojects/dsa/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1306-jump-game-iii](https://github.com/amanmprojects/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0934-shortest-bridge](https://github.com/amanmprojects/dsa/tree/main/0934-shortest-bridge/) | Medium |
+| [1306-jump-game-iii](https://github.com/amanmprojects/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/amanmprojects/dsa/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0934-shortest-bridge](https://github.com/amanmprojects/dsa/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/amanmprojects/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1306-jump-game-iii](https://github.com/amanmprojects/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/amanmprojects/dsa/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/amanmprojects/dsa/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
