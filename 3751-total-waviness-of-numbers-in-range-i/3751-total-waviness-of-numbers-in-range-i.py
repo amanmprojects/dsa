@@ -4,7 +4,7 @@ class Solution:
         for n in range(num1, num2+1):
             nstr = str(n)
             for i in range(1, len(nstr)-1):
-                l, r, curr = int(nstr[i-1]), int(nstr[i+1]), int(nstr[i])
+                l, r, curr = nstr[i-1], nstr[i+1], nstr[i]
                 if l < curr > r:
                     peaks += 1
                 elif l > curr < r:
