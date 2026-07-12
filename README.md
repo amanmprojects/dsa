@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [2556-convert-the-temperature](https://github.com/amanmprojects/dsa/tree/master/2556-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanmprojects/dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/amanmprojects/dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
