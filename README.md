@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2556-convert-the-temperature](https://github.com/amanmprojects/dsa/tree/master/2556-convert-the-temperature) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/amanmprojects/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amanmprojects/dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/amanmprojects/dsa/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/amanmprojects/dsa/tree/main/0542-01-matrix/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/amanmprojects/dsa/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/amanmprojects/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3242-design-neighbor-sum-service](https://github.com/amanmprojects/dsa/tree/main/3242-design-neighbor-sum-service/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/amanmprojects/dsa/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
